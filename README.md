@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**mehdin13/mehdin13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-# 💫 About Me:
+### # 💫 About Me:
 iOS Engineer with more than 10 years of experience developing software and managing software development teams. I’ve spent most of my career leading iOS development. <br>Currently at NcodeStudio, i work in a core team that focuses on making other engineers work easier.<br>When not in the office I'm probably in the mountains hiking, backcountry hiking or road trips.<br>
 
 
@@ -27,4 +22,7 @@ iOS Engineer with more than 10 years of experience developing software and manag
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mehdin13) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/Mehdin13) 
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
+
+<!--
+**mehdin13/mehdin13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
