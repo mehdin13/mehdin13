@@ -1,5 +1,7 @@
 ### # 💫 About Me:
-iOS Engineer with more than 10 years of experience developing software and managing software development teams. I’ve spent most of my career leading iOS development. <br>Currently at NcodeStudio, i work in a core team that focuses on making other engineers work easier.<br>When not in the office I'm probably in the mountains hiking, backcountry hiking or road trips.<br>
+iOS Engineer boasting over a decade of experience in software development and team management, with a primary focus on leading iOS projects. At NcodeStudio, I am part of a core team dedicated to simplifying the work of fellow engineers and enhancing productivity.
+
+Outside the office, you can often find me embracing the great outdoors, whether it's hiking in the mountains, embarking on backcountry adventures, or hitting the open road for a scenic trip.<br>
 
 
 ## 🌐 Socials:
